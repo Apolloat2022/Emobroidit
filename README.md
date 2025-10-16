@@ -1,7 +1,6 @@
 # Emobroidit
 
-Crypto Website Template
-This project is a template for a cryptocurrency-related website built using HTML, JavaScript, and SCSS.
+This project is a template for an Embroidery website built using HTML, JavaScript, and SCSS.
 
 ## Table of Contents
 - Introduction
